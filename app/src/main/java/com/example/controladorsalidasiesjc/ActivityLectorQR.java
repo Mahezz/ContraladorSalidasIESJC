@@ -43,7 +43,7 @@ public class ActivityLectorQR extends AppCompatActivity {
         tvResultado = findViewById(R.id.tvResultado);
         tvMotivo = findViewById(R.id.tvMotivo);
         activityLeerQR = findViewById(R.id.activityLeerQR);
-
+        //Prueba
         leerQR();
 
         /*boolean puedeSalir = true;
